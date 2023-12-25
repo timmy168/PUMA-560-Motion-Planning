@@ -10,8 +10,8 @@ A example of PUMA 560 robot arm motion planning with Matlab in Cartesian space a
 # Result
 ## Cartesian Space:
 ### XYZ Position
-[!image](https://github.com/timmy168/PUMA-560-Motion-Planning/blob/main/results/cart_position.jpg)
+![image](https://github.com/timmy168/PUMA-560-Motion-Planning/blob/main/results/cart_position.jpg)
 ### XYZ Velocity
-[!image](https://github.com/timmy168/PUMA-560-Motion-Planning/blob/main/results/cart_velocity.jpg)
+![image](https://github.com/timmy168/PUMA-560-Motion-Planning/blob/main/results/cart_velocity.jpg)
 ### XYZ Accleration
-[!image](https://github.com/timmy168/PUMA-560-Motion-Planning/blob/main/results/cart_accleration.jpg)
+![image](https://github.com/timmy168/PUMA-560-Motion-Planning/blob/main/results/cart_accleration.jpg)
